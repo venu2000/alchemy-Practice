@@ -2,6 +2,7 @@
 The uploaded content of daywise is updated here 
 
 ## Day - 1
+* Date:26/02/2024
 * what is user stories?
 * what is good user story?
 * how to write a user story?
@@ -19,5 +20,10 @@ The uploaded content of daywise is updated here
 * What is Sprint?
 * What Scrum Master Do?
 * What is Increment?
+-------------------------------------------------------------------------
+## Day - 2_v2
+* Date:27/02/2024
+its version-2.0 file
+USER STORIES OF IPL TICKET BOOKING WEBSITE
 -------------------------------------------------------------------------
 
