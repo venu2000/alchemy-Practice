@@ -20,4 +20,9 @@ The uploaded content of daywise is updated here
 * What Scrum Master Do?
 * What is Increment?
 -------------------------------------------------------------------------
+## Day - 2_v2
+* Date:27/02/2024
+its version-2.0 file
+USER STORIES OF IPL TICKET BOOKING WEBSITE
+-------------------------------------------------------------------------
 
