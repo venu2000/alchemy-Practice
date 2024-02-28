@@ -1,7 +1,7 @@
 # alchemy-Practice
 The uploaded content of daywise is updated here 
 
-##Day - 1
+## Day - 1
 *what is user stories?
 *what is good user story?
 *how to write a user story?
