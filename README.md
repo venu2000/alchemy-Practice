@@ -1,7 +1,7 @@
 # alchemy-Practice
 The uploaded content of daywise is updated here 
 
-Day - 1
+##Day - 1
 *what is user stories?
 *what is good user story?
 *how to write a user story?
@@ -11,7 +11,7 @@ Day - 1
 *When are user stories written
 *Examples of epics
 ------------------------------------------------------------------------
-Day - 2
+##Day - 2
 *Date:27/02/2024
 *What is Product Owner?
 *What is Product Backlog?
