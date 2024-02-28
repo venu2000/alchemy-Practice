@@ -2,6 +2,7 @@
 The uploaded content of daywise is updated here 
 
 ## Day - 1
+* Date:26/02/2024
 * what is user stories?
 * what is good user story?
 * how to write a user story?
