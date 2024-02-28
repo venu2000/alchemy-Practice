@@ -26,4 +26,11 @@ The uploaded content of daywise is updated here
 its version-2.0 file
 USER STORIES OF IPL TICKET BOOKING WEBSITE
 -------------------------------------------------------------------------
+## Day - 3
+* Date:28/02/2024
+* How To Create A Test Plan (Steps, Examples, & Template)
+* What is release cycle?
+* Is release cycle == sprint cycle
+* When should the retrospective happen?
+-------------------------------------------------------------------------
 
